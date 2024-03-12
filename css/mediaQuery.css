@@ -19,6 +19,7 @@
         width: 100%;
     }
     .describeABout p {
+        font-size: 15px;
         top: 220px;
         left: -40px;
         z-index: 3;
