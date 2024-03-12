@@ -1,0 +1,120 @@
+@media screen and (min-width: 350px) and (max-width: 1000px) {
+
+    /* HOME */
+    .photoDiv {
+        width: 75%;
+    }
+    .nav-link {
+        font-size: 12px;
+    }
+    .contentGlamour::after {
+        font-size: 42px;
+    }
+    .slogan .letter {
+        font-size: 15px;
+    }
+
+    /* ABOUT */
+    .describeABout {
+        width: 100%;
+    }
+    .describeABout p {
+        top: 220px;
+        left: -40px;
+        z-index: 3;
+    }
+    .livingRoom {
+        position: absolute;
+        right: 0px;
+        width: 78%;
+        height: 307px;
+    }
+    .bedrooms img {
+        position: absolute;
+        width: 40%;
+        right: 0px;
+        height: 307px;
+    }
+
+    /* FOLLOWERS */
+    .ig,
+    .fb {
+        height: 48vh;
+    }
+    .igFollowers {
+        background-size: 1320px;
+    }
+    .igFollowers .howManyFollowers,
+    .fbFollowers .howManyFollowers,
+    .layer2 .fa-instagram,
+    .layer2 .fa-facebook {
+        font-size: 50px;
+
+    }
+    .layer2 .fa-instagram,
+    .layer2 .fa-facebook {
+        bottom: 20px;
+    }
+
+    /* GALLERY */
+    .our-gallery {
+        font-size: 50px;
+
+    }
+    .designs {
+        width: 33%;
+    }
+    .designs img {
+        height: 275px;
+    }
+    .galleryDescription h2 {
+        font-size: 15px;
+    }
+    .bi-arrow-up-right-square {
+        font-size: 25px;
+    }
+
+    /* SLIDERS */
+    .homeDesign-title {
+        font-size: 28px;
+
+    }
+    .homeDesign-intro p {
+        font-family: "Truculenta";
+        font-size: 10px;
+    }
+    .homeDesign-intro {
+        width: 40%;
+    }
+    .carousel {
+        width: 60%;
+    }
+    .carousel-item img {
+        width: 100%;
+        height: 112px;
+    }
+
+    /* CONTACT */
+    .contact h2 {
+        font-size: 50px;
+    }
+    #div1-locations h3 {
+        font-size: 45px;
+    }
+    .a-location img {
+        height: 200px;
+    }
+    #div2-contact img {
+        width: 72%;
+    }
+    .look-forward {
+        font-size: 12px;
+    }
+    .contact-icons i {
+        font-size: 15px;
+    }
+    .row-form {
+        left: 30px;
+    }
+    
+}
