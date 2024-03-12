@@ -19,9 +19,9 @@
         width: 100%;
     }
     .describeABout p {
-        font-size: 15px;
+        font-size: 16px;
         top: 220px;
-        left: -40px;
+        left: 20px;
         z-index: 3;
     }
     .livingRoom {
