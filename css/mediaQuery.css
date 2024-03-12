@@ -84,6 +84,9 @@
         font-family: "Truculenta";
         font-size: 10px;
     }
+    .scandi, .minimal, .trad{
+        font-size: 7px;
+    }
     .homeDesign-intro {
         width: 40%;
     }
